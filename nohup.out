@@ -1,0 +1,18 @@
+2025-12-01 14:35:26,400 - __main__ - INFO - Bot ishga tushdi...
+2025-12-01 14:35:26,400 - __main__ - INFO - Kanal ID ni olish uchun kanalga /getid buyrug'ini yuboring
+2025-12-01 14:35:26,713 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8394386955:AAGsWVsCnu_bF-DbDJc4mioO5FLDJUxfnMw/getMe "HTTP/1.1 200 OK"
+2025-12-01 14:35:26,811 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8394386955:AAGsWVsCnu_bF-DbDJc4mioO5FLDJUxfnMw/deleteWebhook "HTTP/1.1 200 OK"
+2025-12-01 14:35:26,817 - telegram.ext.Application - INFO - Application started
+2025-12-01 14:35:37,133 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8394386955:AAGsWVsCnu_bF-DbDJc4mioO5FLDJUxfnMw/getUpdates "HTTP/1.1 200 OK"
+2025-12-01 14:35:53,832 - __main__ - INFO - Bot ishga tushdi...
+2025-12-01 14:35:53,833 - __main__ - INFO - Kanal ID ni olish uchun kanalga /getid buyrug'ini yuboring
+2025-12-01 14:35:54,156 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8394386955:AAGsWVsCnu_bF-DbDJc4mioO5FLDJUxfnMw/getMe "HTTP/1.1 200 OK"
+2025-12-01 14:35:54,264 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8394386955:AAGsWVsCnu_bF-DbDJc4mioO5FLDJUxfnMw/deleteWebhook "HTTP/1.1 200 OK"
+2025-12-01 14:35:54,270 - telegram.ext.Application - INFO - Application started
+2025-12-01 14:35:56,663 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8394386955:AAGsWVsCnu_bF-DbDJc4mioO5FLDJUxfnMw/getUpdates "HTTP/1.1 200 OK"
+2025-12-01 14:35:56,666 - __main__ - INFO - Start komandasi: User ID=8198930599, Chat ID=8198930599
+2025-12-01 14:35:56,774 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8394386955:AAGsWVsCnu_bF-DbDJc4mioO5FLDJUxfnMw/sendVideoNote "HTTP/1.1 400 Bad Request"
+2025-12-01 14:35:56,776 - __main__ - ERROR - Video note yuborishda xato: Wrong remote file identifier specified: wrong string length
+2025-12-01 14:35:56,881 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8394386955:AAGsWVsCnu_bF-DbDJc4mioO5FLDJUxfnMw/sendVideo "HTTP/1.1 400 Bad Request"
+2025-12-01 14:35:56,883 - __main__ - ERROR - Video yuborishda ham xato: Wrong remote file identifier specified: wrong string length
+2025-12-01 14:35:57,028 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8394386955:AAGsWVsCnu_bF-DbDJc4mioO5FLDJUxfnMw/sendMessage "HTTP/1.1 200 OK"
