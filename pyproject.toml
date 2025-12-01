@@ -1,0 +1,18 @@
+[tool.poetry]
+name = "hr-bot-new"
+version = "0.1.0"
+description = "Telegram bot"
+authors = ["Sizning Ismingiz <email@example.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.10"
+python-telegram-bot = "20.7"
+openpyxl = "3.1.2"
+python-dotenv = "1.0.0"
+httpx = "0.25.2"
+pytz = "*"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
